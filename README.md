@@ -9,7 +9,7 @@ After training on a curated dataset of industrial components, the model achieved
 - **Recall:** 87.5%  
 - **Training Time:** ~10 minutes (0.173 hours)
 
-![Model Metrics](metrics.png)
+![Model Metrics](metrics_AWS.png)
 
 ## 🛠 Deployment & API Integration
 While the training was performed via the AWS Console, the system is designed to be integrated into an automated production line via the AWS CLI or SDK.
